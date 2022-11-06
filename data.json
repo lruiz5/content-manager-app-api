@@ -1,8 +1,8 @@
 [
   {
     "id": "0",
-    "createdAt": "Oct 27, 2022",
-    "title": "Learning Singleton Pattern",
+    "createdAt": "2022-10-26T04:51:40.426Z",
+    "title": "Learning the Singleton Pattern",
     "description": "I would like to learn singleton in JS language. It is important for my work!",
     "link": "https://trustbiztech.com",
     "priority": 3,
@@ -11,17 +11,18 @@
   },
   {
     "id": "1",
-    "createdAt": "Oct 26, 2022",
+    "createdAt": "2022-10-26T04:51:40.426Z",
     "title": "Learning Singleton Resources",
     "description": "Resource #2!",
     "link": "https://trustbiztech.com",
     "priority": 2,
-    "timeToFinish": 60,
-    "status": "inactive"
+    "timeToFinish": 10,
+    "status": "complete",
+    "activationTime": "2022-11-06T05:51:43.043Z"
   },
   {
     "id": "2",
-    "createdAt": "Oct 26, 2022",
+    "createdAt": "2022-10-27T04:51:40.426Z",
     "title": "Checking Edit Functionality",
     "description": "Checking Edit Functionality",
     "link": "https://checkingedit.com",
@@ -36,25 +37,27 @@
     "priority": "3",
     "timeToFinish": "45",
     "createdAt": "2022-10-28T04:51:40.426Z",
-    "status": "inactive",
-    "id": "1666932700426"
+    "status": "active",
+    "id": "1666932700426",
+    "activationTime": "2022-11-06T06:30:06.131Z"
   },
   {
     "title": "Testing Title",
     "description": "Testing Description",
     "link": "Testing Link",
     "priority": "1",
-    "timeToFinish": "600",
+    "timeToFinish": "6",
     "createdAt": "2022-10-28T04:58:22.266Z",
-    "status": "inactive",
-    "id": "1666933102266"
+    "status": "complete",
+    "id": "1666933102266",
+    "activationTime": "2022-11-02T17:15:56.851Z"
   },
   {
-    "title": "Luis",
-    "description": "Luis",
+    "title": "Luis, thats my name",
+    "description": "ya ya ya ya!",
     "link": "Luis",
     "priority": 2,
-    "timeToFinish": "601",
+    "timeToFinish": "3",
     "createdAt": "2022-10-28T05:00:47.198Z",
     "status": "inactive",
     "id": "1666933247198"
@@ -70,44 +73,45 @@
     "id": "1666933449388"
   },
   {
-    "title": "Copy Title",
+    "title": "Updating the Title",
     "description": "Copy Descriptions are important. this is why we take the time to fill out our form properly.",
     "link": "https://www.copy.com",
-    "priority": "3",
-    "timeToFinish": "54",
+    "priority": "2",
+    "timeToFinish": "41",
     "createdAt": "2022-10-28T04:51:40.426Z",
     "status": "inactive",
     "id": "copy"
   },
   {
-    "title": "kjhgfd",
-    "description": "sdfg",
-    "link": "hgfdsa",
-    "priority": 2,
-    "timeToFinish": 60,
+    "title": "Real Text for a title",
+    "description": "description is here",
+    "link": "https://www.link.com",
+    "priority": "3",
+    "timeToFinish": "4",
     "createdAt": "2022-10-28T23:24:17.373Z",
-    "status": "inactive",
-    "id": "1666999457373"
+    "status": "complete",
+    "id": "1666999457373",
+    "activationTime": "2022-11-02T17:07:17.798Z"
   },
   {
     "title": "My Super Form",
     "description": "My Super Form",
     "link": "My Super Form",
     "priority": 2,
-    "timeToFinish": "543",
+    "timeToFinish": 1,
     "createdAt": "2022-10-28T23:43:22.006Z",
-    "status": "active",
-    "id": "1667000602006",
-    "activationTime": "2022-11-01T23:29:34.397Z"
+    "status": "inactive",
+    "id": "1667000602006"
   },
   {
     "title": "newest resource",
     "description": "newest resource",
     "link": "newest resource",
     "priority": 2,
-    "timeToFinish": 60,
+    "timeToFinish": 28,
     "createdAt": "2022-10-28T23:53:54.846Z",
-    "status": "inactive",
-    "id": "1667001234846"
+    "status": "complete",
+    "id": "1667001234846",
+    "activationTime": "2022-11-06T05:29:22.257Z"
   }
 ]
