@@ -52,6 +52,10 @@ app.patch("/api/resources/:id", (req, res) => {
     (resource) => resource.status === "active"
   );
 
+  if (resources[index].status === "complete") {
+    return res.status(422).send("Resource has already been completed.");
+  }
+
   resources[index] = req.body;
 
   // active resource related functionality
